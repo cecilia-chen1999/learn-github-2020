@@ -22,6 +22,8 @@
 
 ## 1.2 If you have mulitple organisations
 - In my account, I am linked with different organisations, so I just have to click and extra button here.
+  ![Fork](./images/fork2.png "Which button?") 
+
 
 
 ## **Version Tracking**
@@ -44,7 +46,7 @@
 
 ## 4. Commit your changes
 
-- Down the botom right of github desktop, add a summary such as "added ryanbircham.txt" and press commit.
+- Down the botom left of github desktop, add a summary such as "added ryanbircham.txt" and press commit.
 
 ## 5. Check the status again
 
@@ -61,13 +63,15 @@
 - Save the file.
 - Commit the changes to your repo
 - Using the history tab, you will be able to see your second commit!
-  ![LogCommit2](./images/LogCommit2.png "Log Commit 2")
 
 ## 8. Add a third line and commit them
 
-- Repeat step 9 and check the git log. You should see a third commit you made!
-  ![LogCommit3](./images/LogCommit3.png "Log Commit 3")
+- Repeat step 7 and check the git history. You should see a third commit you made!
 - Congratulations! You have successfully added version control to your new file! The following steps help create a pull request to get these new changes into the remote repostory.
+
+## 9. Now push your changes to the cloud
+- Press the push origin button.
+- Origin is the remote server (GitHub).
 
 ---
 
@@ -77,10 +81,8 @@
 
 - Navigate to your fork URL (e.g. https://github.com/{your-username}/git-gud-2020)
 - Click on the "New Pull Request" button
-  ![NewPR](./images/NewPullRequestButton.png "New PR")
 
 - Check the fork you wish to make the pull request from is your personal forked repository master branch
-  ![NewPRPage](./images/NewPullRequestPage.png "New PR Page")
 
 - Click the green "Create pull request" button.
 - Congratulations, you have successfully made a Pull Request to the remote repository. Now you will have to wait until the owner of the repository approves and merges your pull request.
