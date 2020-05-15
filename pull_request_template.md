@@ -1,5 +1,7 @@
 ## Merge
 
-- What are you merging?
+- Well done for making it this far!
 
-- Whats your favourite colour?
+- Press merge Pull Request, and I'll recieve your changes.
+
+- The owner of the repo must accept changes, so I'll accept them soon.
