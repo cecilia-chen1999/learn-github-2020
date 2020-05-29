@@ -32,7 +32,7 @@
 
 - Open the repository in your text editor (VsCode) and create a new text file with your name (e.g: ryanbircham.txt).
 
-* Add one line to the text file.
+* Add one line to the text file about your favourite studying snack.
 
   ![New File](./images/NewFile.png "New File")
 
@@ -47,6 +47,8 @@
 ## 4. Commit your changes
 
 - Down the botom left of github desktop, add a summary such as "added ryanbircham.txt" and press commit.
+![StagedFileStatus](./images/CommitNos.png "Staged File Status")
+![StagedFileStatus](./images/CommitYess.png "Staged File Status")
 
 ## 5. Check the status again
 
