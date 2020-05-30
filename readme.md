@@ -47,7 +47,7 @@
 ## 4. Commit your changes
 
 - Down the botom left of github desktop, add a summary such as "added ryanbircham.txt" and press commit.
-![StagedFileStatus](./images/CommitNos.png "Staged File Status")
+![StagedFileStatus](./images/CommitNo.png "Staged File Status")
 ![StagedFileStatus](./images/CommitYes.png "Staged File Status")
 
 ## 5. Check the status again
@@ -58,7 +58,7 @@
 ## 6. Check the git history
 
 - You can view the history of commits in your branch by clicking history.
-![StagedFileStatus](./images/StatusGone.png "Staged File Status")
+![StagedFileStatus](./images/history.png "Staged File Status")
 
 
 ## 7. Add another change
@@ -79,6 +79,8 @@
 ## 9. Now push your changes to the cloud
 - Press the push origin button.
 - Origin is the remote server (GitHub).
+![StagedFileStatus](./images/PushOriginTop.png "Staged File Status")
+![StagedFileStatus](./images/PushOriginMid.png "Staged File Status")
 
 ---
 
