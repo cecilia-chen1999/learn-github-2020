@@ -8,20 +8,20 @@
 
 ## 1.0 Fork the main repository
 
-- Navigate to https://github.com/duvvvy/learn-github-2020
+- Navigate to https://github.com/NZMSA/Intro-To-Git
 - Click on the Fork button. This creates your own copy of the reporitory on your own Github account.
   ![Fork](./images/fork.png "Shows arrow to fork button") 
 
 
 ## 1.1 Clone the Repository
 
-- In your own fork repository on github, click on the green "Clone or download" button. Make sure its your own fork, and not my one.
+- In your own fork repository on github, click on the green "Clone or download" button. Make sure its your own fork, and not the MSA one.
   ![isItMine](./images/IsItMine.png "Is this my fork?") 
 
 - Now you want to click, open in desktop.
 
 ## 1.2 If you have mulitple organisations
-- In my account, I am linked with different organisations, so I just have to click and extra button here.
+- In my account, I am linked with different organisations, so I just have to click an extra button here.
   ![Fork](./images/fork2.png "Which button?") 
 
 
@@ -79,7 +79,7 @@
 
 ## Create a Pull Request
 
-- Navigate to your fork URL (e.g. https://github.com/{your-username}/git-gud-2020)
+- Navigate to your fork URL (e.g. https://github.com/{yourusername}/Intro-To-Git
 - Click on the "New Pull Request" button
 
 - Check the fork you wish to make the pull request from is your personal forked repository master branch
@@ -89,6 +89,6 @@
 
 ## Seeing your changes
 
-- Once your changes have been approved and merged, you can see your changes and other people's changes to the remote repository on https://github.com/duvvvy/learn-github-2020
+- Once your changes have been approved and merged, you can see your changes and other people's changes to the remote repository on https://github.com/NZMSA/Intro-To-Git
 
-- These changes are now in my master branch!
+- These changes are now MSA's my master branch!
