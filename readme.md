@@ -48,27 +48,32 @@
 
 - Down the botom left of github desktop, add a summary such as "added ryanbircham.txt" and press commit.
 ![StagedFileStatus](./images/CommitNos.png "Staged File Status")
-![StagedFileStatus](./images/CommitYess.png "Staged File Status")
+![StagedFileStatus](./images/CommitYes.png "Staged File Status")
 
 ## 5. Check the status again
 
 - This will show there is no new changes! (Beause the changes got committed!)
+![StagedFileStatus](./images/StatusGone.png "Staged File Status")
 
 ## 6. Check the git history
 
 - You can view the history of commits in your branch by clicking history.
+![StagedFileStatus](./images/StatusGone.png "Staged File Status")
 
 
-## 7. Add more changes and commit them
+## 7. Add another change
 
 - Now that you have created a commit, add a second line to the file you created.
+- The second line can be about your favourite colour.
 - Save the file.
 - Commit the changes to your repo
 - Using the history tab, you will be able to see your second commit!
 
 ## 8. Add a third line and commit them
 
-- Repeat step 7 and check the git history. You should see a third commit you made!
+- Repeat step 7 and check the git history. 
+- The third line can be about your favourite song.
+- You should see a third commit you made!
 - Congratulations! You have successfully added version control to your new file! The following steps help create a pull request to get these new changes into the remote repostory.
 
 ## 9. Now push your changes to the cloud
